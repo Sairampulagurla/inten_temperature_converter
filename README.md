@@ -10,7 +10,7 @@ A simple and responsive **Temperature Converter** built using **HTML, CSS, and J
   - Celsius → Fahrenheit & Kelvin
   - Fahrenheit → Celsius & Kelvin
   - Kelvin → Celsius & Fahrenheit
-- ✅ Input validation to ensure only numeric values are accepted.
+-  Input validation to ensure only numeric values are accepted.
 - 🎨 Clean and responsive user interface.
 - ⚡ Fast conversion using JavaScript.
 - 📱 Mobile-friendly design.
